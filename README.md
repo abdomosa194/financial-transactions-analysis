@@ -36,9 +36,3 @@ The dataset used in this project is available on Kaggle:
 🔗 [Financial Transactions Dataset](#) *([add dataset link here](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets/data))*  
 
 ---
-
-## 🚀 Getting Started
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
