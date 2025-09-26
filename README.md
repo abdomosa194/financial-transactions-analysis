@@ -20,7 +20,7 @@ The interactive dashboard includes:
 - Merchant activity analysis  
 - Fraud risk indicators  
 
-🔗 [Financial Transactions Dashboard](#) *(add your Power BI link here)*  
+🔗 [Financial Transactions Dashboard](#) *()*  
 
 ---
 
@@ -33,7 +33,7 @@ The interactive dashboard includes:
 
 ## 📥 Dataset
 The dataset used in this project is available on Kaggle:  
-🔗 [Financial Transactions Dataset](#) *(add dataset link here)*  
+🔗 [Financial Transactions Dataset](#) *([add dataset link here](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets/data))*  
 
 ---
 
